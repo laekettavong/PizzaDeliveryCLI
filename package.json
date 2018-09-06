@@ -1,5 +1,5 @@
 {
-  "name": "pizzadeliverygui",
+  "name": "pizzadeliverycli",
   "version": "1.0.0",
   "description": "Pizza delivery app",
   "main": "index.js",
@@ -17,12 +17,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/laekettavong/PizzaDeliveryGUI.git"
+    "url": "git+https://github.com/laekettavong/PizzaDeliveryCLI.git"
   },
   "author": "K. Lae Kettavong",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/laekettavong/PizzaDeliveryGUI/issues"
+    "url": "https://github.com/laekettavong/PizzaDeliveryCLI/issues"
   },
-  "homepage": "https://github.com/laekettavong/PizzaDeliveryGUI#readme"
+  "homepage": "https://github.com/laekettavong/PizzaDeliveryCLI#readme"
 }
