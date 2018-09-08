@@ -20,5 +20,5 @@ This is the command line interface (continuation of) [PizzaDeliveryGUI](https://
 | ```list sales metrics --{hourOffset}```       	| List metrics of all sales within last specific hours (optional hourOffset is the last 24 hours if not specified)              	|
 | ```list pizza metrics --{hourOffset}```       	| List metrics of all pizza sold within last specific hours (optional hourOffset is the last 24 hours if not specified)         	|
 | ```list wings metrics --{hourOffset}```       	| List metrics of all chicken wings sold within last specific hours (optional hourOffset is the last 24 hours if not specified) 	|
-| ```list breadsticks metrics --{hourOffset}``` 	| List metrics of all breadticks sold within last specific hours (optional hourOffset is the last 24 hours if not specified)    	|
+| ```list breadsticks metrics --{hourOffset}``` 	| List metrics of all breadsticks sold within last specific hours (optional hourOffset is the last 24 hours if not specified)    	|
 | ```list soda metrics --{hourOffset}```        	| List metrics of all soda sold within last specific hours (optional hourOffset is the last 24 hours if not specified)          	|
