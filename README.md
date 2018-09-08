@@ -5,7 +5,7 @@ This is the command line interface (continuation of) [PizzaDeliveryGUI](https://
 
 | Command                                 	| Description                                                                                                                   	|
 |-----------------------------------------	|-------------------------------------------------------------------------------------------------------------------------------	|
-| exit                                    	| Kill the CLI (and the rest of the application)                                                                                	|
+| ```exit```                                   	| Kill the CLI (and the rest of the application)                                                                                	|
 | man                                     	| Show this help page                                                                                                           	|
 | help                                    	| Alias of the "man" command                                                                                                    	|
 | menu                                    	| Show current menu items                                                                                                       	|
