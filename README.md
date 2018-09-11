@@ -1,6 +1,6 @@
 # PizzaDeliveryCLI
 
-This is the command line interface (continuation of) [PizzaDeliveryGUI](https://github.com/laekettavong/PizzaDeliveryGUI). With the CLI, a system admin can make various dashboard-like queries to ascertain hourly/daily transactions/users metrics and details. Following is the currently supported command set.
+This is the command line interface (continuation of) [PizzaDeliveryGUI](https://github.com/laekettavong/PizzaDeliveryGUI) written puposely without leveraging the native 'repl' module. With the CLI, a system admin can make various dashboard-like queries to ascertain hourly/daily transactions/users metrics and details. Following is the currently supported command set.
 
 
 | Command                                       	| Description                                                                                                                   	|
